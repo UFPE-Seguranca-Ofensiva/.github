@@ -1,6 +1,6 @@
 ### **English**
 
-# UFPE-PosSecOfensiva
+# UFPE-Seguranca-Ofensiva
 
 Welcome to the official GitHub organization for the Lato Sensu Graduate Program in Offensive Security and Cyber Intelligence (ETHICAL HACKER) at the Federal University of Pernambuco (UFPE). This organization serves as a repository of tools, malware samples for analysis, and other resources to support students and the cybersecurity community.
 
@@ -24,7 +24,7 @@ We are open to contributions! If you are interested in collaborating, please che
 
 ### **Português**
 
-# UFPE-PosSecOfensiva
+# UFPE-Segurança-Ofensiva
 
 Bem-vindo à organização oficial no GitHub da Pós-Graduação Lato Sensu em Segurança Ofensiva e Inteligência Cibernética (HACKER ÉTICO) da Universidade Federal de Pernambuco (UFPE). Esta organização funciona como um acervo de ferramentas, amostras de malware para análise e outros recursos para apoiar os estudantes e a comunidade de cibersegurança.
 
